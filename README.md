@@ -5,3 +5,5 @@ Singularity AI Hackathon
 2. Bhuvnesh kumar 
 3. Siddhika Modi
 4. Suhana Khan   
+
+![image alt]https://github.com/705sunil/S3B-coders/blob/main/singularity_hackathon.jpg
